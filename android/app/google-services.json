@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809234231047",
+    "project_id": "flutter-share-reminder",
+    "storage_bucket": "flutter-share-reminder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809234231047:android:cb2dc007f9124e6dca9fa2",
+        "android_client_info": {
+          "package_name": "com.example.tansu_kanri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv5LZKiS0q4uqTb0pcipocr4kUTYdAuns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
